@@ -1,4 +1,4 @@
-#Puzzle #4
+#Puzzle #7
 #Open a file.
 f=open('fortunes.txt', 'r') #'fortunes.txt' = the file path 'r' = read only parameter
 while (True):
